@@ -1,6 +1,6 @@
 # Instructions
 
-You will right a Python script that asks the user their name, their birth year, calculates their age, asks them their hometown and country, and give them a Merry Xmas message using their native way to call Santa Claus
+You will write a Python script that asks the user their name, their birth year, calculates their age, asks them their hometown and country, and give them a Merry Xmas message using their native way to call Santa Claus
 
 You will use:
 

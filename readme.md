@@ -11,6 +11,8 @@ You will use:
 - print()
 - variable declaration
 
+# How to do the Lab?
+
 - 1: Fork this repository to your GitHub
 - 2: Clone this repository locally using git clone
 - 3: Work on the code
